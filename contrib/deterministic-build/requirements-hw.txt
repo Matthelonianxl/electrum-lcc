@@ -40,7 +40,7 @@ Cython==0.28.1 \
     --hash=sha256:e47bbe74d6c87fab2e22f1580aa3e4a8e7482b4265b1fc76685fc49f90e18f99 \
     --hash=sha256:ea113ff58e96152738e646b8ee77b41d3994735df77bee0a26cd413a67e03c0f \
     --hash=sha256:ea22d79133583b5b0f856dbfda097363228ae0a3d77431deaba90634e5d4853a
-ecdsa==0.13 \
+ecdsa==0.14 \
     --hash=sha256:40d002cf360d0e035cf2cb985e1308d41aaa087cbfc135b2dc2d844296ea546c \
     --hash=sha256:64cf1ee26d1cde3c73c6d7d107f835fed7c6a2904aef9eac223d57ad800c43fa
 hidapi==0.7.99.post21 \
@@ -111,7 +111,7 @@ six==1.11.0 \
     --hash=sha256:832dc0e10feb1aa2c68dcc57dbb658f1c7e65b9b61af69048abc87a2db00a0eb
 trezor==0.9.1 \
     --hash=sha256:a481191011bade98f1e9f1201e7c72a83945050657bbc90dc4ac32dc8b8b46a4
-urllib3==1.22 \
+urllib3==1.25.9 \
     --hash=sha256:06330f386d6e4b195fbfc736b297f58c5a892e4440e54d294d7004e3a9bbea1b \
     --hash=sha256:cc44da8e1145637334317feebd728bd869a35285b93cbb4cca2577da7e62db4f
 wheel==0.31.0 \
